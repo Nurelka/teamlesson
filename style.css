@@ -31,3 +31,8 @@
     background-color: black;
     margin: 0 auto;
 }
+
+
+.image-container img {
+    box-shadow: 0px 10px 0px 10px black;
+}
