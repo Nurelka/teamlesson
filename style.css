@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.item {
+    width: 1440px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.box {
+    width: 1440px;
+    height: 100px;
+    background-origin: padding-box;
+    border-color: azure ;
+}
