@@ -1,0 +1,15 @@
+.team {
+    width: 550px;
+    height: 250px;
+    background-color: red;
+    margin: 0 auto;
+}
+
+.team1 {
+    width: 550px;
+    height: 250px;
+    color: rgb(250, 240, 240);
+    background-color: black;
+    margin: 0 auto;
+    
+}
